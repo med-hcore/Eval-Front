@@ -1,4 +1,97 @@
+<<<<<<< HEAD
+body {
+    background: black;
+}
+
+#profil {
+    background: white;
+    text-decoration: white;
+    border: solid;
+    border-radius: 30px;
+    width: 615px;
+    height: 200px;
+    text-align: center;
+    font-size: 30px;
+}
+
+#mes\ projects {
+    background-color: red;
+    border: solid;
+    border-radius: 30px;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    font-size: 30px;
+    position: fixed;
+    left: 215px;
+}
+
+#contact {
+    background-color: green;
+    border: solid;
+    border-radius: 30px;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    font-size: 30px;
+}
+
+#site {
+    background-color: green;
+    border: solid;
+    border-radius: 30px;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    font-size: 30px;
+    position: fixed;
+    left: 215px;
+}
+
+#experiences {
+    background-color: red;
+    border: solid;
+    border-radius: 30px;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    font-size: 30px;
+}
+
+#folio {
+    background-color: green;
+    border: solid;
+    border-radius: 30px;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    font-size: 30px;
+    position: fixed;
+    left: 423px;
+    bottom: 457px;
+}
+
+#social {
+    background-color: red;
+    border: solid;
+    border-radius: 30px;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    font-size: 30px;
+    position: fixed;
+    left: 423px;
+    bottom: 248px;
+}
+
+img {
+    border: solid;
+    position: fixed;
+    left: 700px;
+    bottom: 300px;
+=======
 #profil {
     border: solid;
     
+>>>>>>> origin/main
 }
